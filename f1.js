@@ -10,8 +10,13 @@ const func1=() => {
     alert("Hello from f1.js");
 }
 
+
 const c=() => {     
     console.log("This is function c from f1.js");
+
+const b=() => {
+        return "Inner function in f1.js";   
+
 }
 
 
