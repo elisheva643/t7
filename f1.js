@@ -10,8 +10,7 @@ const func1=() => {
     alert("Hello from f1.js");
 }
 const b=() => {
-        return "Inner function in f1.js"; 
-        alert("This will not be executed");  
+        return "Inner function in f1.js";   
 }
 
 
