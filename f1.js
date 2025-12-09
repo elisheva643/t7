@@ -11,6 +11,10 @@ const func1=() => {
 
 }
 
+const c=() => {     
+    console.log("This is function c from f1.js");
+}
+
 
 
 const a="20";
