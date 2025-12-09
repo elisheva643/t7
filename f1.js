@@ -8,7 +8,6 @@ const func1=() => {
     console.log("aaa");
  
     alert("Hello from f1.js");
-
 }
 
 const c=() => {     
