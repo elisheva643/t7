@@ -4,6 +4,8 @@ const func1=() => {
     alert("Function 1 executed");
 
     return "Function 1 executed";
+    console.log("aaa");
+    
 
 }
 
