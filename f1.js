@@ -17,7 +17,11 @@ const c=() => {
 const b=() => {
         return "Inner function in f1.js";   
 
+
 }
+const b=() => {
+        return "Inner function in f1.js"; 
+     }  
 
 
 
